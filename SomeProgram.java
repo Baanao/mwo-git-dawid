@@ -5,6 +5,8 @@ public class SomeProgram {
     }
 
     public static void managingRockets(){
-	//TODO: to implement
+	//TODO: to implement}
+    public static void manageTheSatellite(){
+   	//TODO: implement 
     }
 }
